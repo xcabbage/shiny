@@ -1,6 +1,10 @@
 # shiny
 # new project / new dir / new shiny web appl
 # daroczig@rapporter.net
+# database package: DBA
+# bit.ly/CEU-R-bye
+
+
 library(shiny)
 library(ggplot2)
 
